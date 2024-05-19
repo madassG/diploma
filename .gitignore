@@ -3,5 +3,6 @@
 **/__pycache__/
 **/env/
 **/.idea/
+**/.DS_Store
 stackoferflow_scrapper/proxy_list.txt
 

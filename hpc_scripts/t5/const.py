@@ -1,0 +1,6 @@
+MAX_LENGTH = 512
+
+Q_PREFIX = 'Q: '
+A_PREFIX = 'A: '
+
+BATCH_SIZE = 12
